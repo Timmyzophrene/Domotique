@@ -1,7 +1,7 @@
 Domotique
 =========
 If you have any question, contact me at : timmyzophrene@gmail.com
-Si vous avez une question, contactee moi a : timmyzophrene@gmail.com
+Si vous avez une question, contactez moi a : timmyzophrene@gmail.com
 
 The com port for arduino can be changed on the lampe.php file.
 Le port com pour l'arduino peut être changé sur le fichier lampe.php
